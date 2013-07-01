@@ -1,4 +1,4 @@
-#The common configuration list in development environment
+#Configuration in development environment
 
 ##OS
 
