@@ -25,7 +25,7 @@ jobs:
     # Runs a single command using the runners shell
     - name: hello_world_step
       id: hello_world_step
-      uses: actions/hello-docker-action@v1 
+      uses: flysoloing/hello-docker-action@v1 
       with:
         who-to-greet: 'flysoloing, welcome GitHub Actions' 
 
