@@ -27,7 +27,7 @@ jobs:
       uses: flysoloing/hugo-action@master
       with:
         theme_repo_url: 'https://github.com/olOwOlo/hugo-theme-even'
-        source_repo_url: 'https://github.com/flysoloing/articles'
+        source_repo_url: 'https://github.com/flysoloing/config'
         target_repo_url: 'https://github.com/flysoloing/flysoloing.github.io'
         config_file_url: ''
         base_url: 'https://flysoloing.github.io'
