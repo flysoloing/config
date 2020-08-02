@@ -35,4 +35,4 @@ jobs:
         base_url: 'https://flysoloing.github.io'
         title: '二把刀'
         language_code: 'zh-cn'
-        theme: 'hugo-theme-even'
+        theme: 'even'
