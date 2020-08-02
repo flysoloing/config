@@ -25,6 +25,8 @@ jobs:
     # Runs a single command using the runners shell
     - name: Run hugo action
       uses: flysoloing/hugo-action@master
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
         theme_repo_url: 'https://github.com/olOwOlo/hugo-theme-even'
         source_repo_url: 'https://github.com/flysoloing/config'
