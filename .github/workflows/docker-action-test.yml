@@ -33,6 +33,6 @@ jobs:
         target_repo_url: 'https://github.com/flysoloing/flysoloing.github.io'
         config_file_url: ''
         base_url: 'https://flysoloing.github.io'
-        title: '二把刀'
+        site_title: '二把刀'
         language_code: 'zh-cn'
-        theme: 'even'
+        theme_name: 'even'
